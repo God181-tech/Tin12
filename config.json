@@ -1,0 +1,36 @@
+{
+  "teamLogo": {
+    "src": "images/logo.png",
+    "alt": "Logo Nhóm Học Tin Cùng Bảo Khánh"
+  },
+  "podcasts": [
+    {
+      "url": "https://your-podcast1-link.com",
+      "title": "Podcast 1 - Làm Gì?"
+    },
+    {
+      "url": "https://your-podcast2-link.com",
+      "title": "Podcast 2 - Kiến Thức & Kỹ Năng"
+    },
+    {
+      "url": "https://your-podcast3-link.com",
+      "title": "Podcast 3 - Cơ Hội & Thăng Tiến"
+    }
+  ],
+  "slogan": {
+    "text": "Vén màn bí ẩn của nghề graphic designer cùng chuyên gia Khương Bảo Khánh"
+  },
+  "mindmap": {
+    "src": "images/mindmap-3-video.png",
+    "alt": "Mindmap Tóm Gọn 3 Video"
+  },
+  "banner": {
+    "src": "images/banner.png",
+    "alt": "Vén Màn Bí Ẩn Đằng Sau Nghề Graphic Designer"
+  },
+  "contact": {
+    "email": "baokhanh@example.com",
+    "phone": "(+84) XXX-XXXX-XXX",
+    "address": "Thành phố Hồ Chí Minh, Việt Nam"
+  }
+}
